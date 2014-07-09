@@ -1,0 +1,25 @@
+body{
+background-color: #A5DEF2;
+}
+
+#wrapper {
+backgound-color: white;
+}
+
+div {
+	padding: 20px 20px 20px 20px;
+	display:inline-block;
+
+}
+
+.hallo {
+	float: left;
+
+}
+
+.login {
+	float: right;
+	border: 12px groove; 
+	
+}
+
